@@ -1,0 +1,15 @@
+{
+  "name": "com.ossovr.f23stringsimilarity",
+  "displayName": "F23.StringSimilarity",
+  "version": "3.1.0",
+  "unity": "2018.1",
+  "description": "A .NET port of java-string-similarity: https://github.com/tdebatty/java-string-similarity \n\nA library implementing different string similarity and distance measures. A dozen of algorithms (including Levenshtein edit distance and sibblings, Jaro-Winkler, Longest Common Subsequence, cosine similarity etc.) are currently implemented.",
+  "keywords": [
+    "string",
+    "similarity",
+    "distance",
+    "Levenshtein"
+  ],
+  "category": "Utilities",
+  "type": "library"
+}
