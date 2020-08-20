@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/feature23/StringSimilarity.NET.svg?branch=master)](https://travis-ci.org/feature23/StringSimilarity.NET)
+[![openupm](https://img.shields.io/npm/v/com.ossovr.f23stringsimilarity?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.ossovr.f23stringsimilarity/)
 <!--[![Coverage Status](https://coveralls.io/repos/github/feature23/StringSimilarity.NET/badge.svg?branch=master)](https://coveralls.io/github/feature23/StringSimilarity.NET?branch=master)-->
 
 # String Similarity .NET
